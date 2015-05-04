@@ -5,7 +5,7 @@
 ###  Directions
 
 * Fork this repo
-* Clone it and switch into the directory
+* Clone it from your github account onto your computer, and switch into the directory
 	* Make a JS file for each exercise you attempt.
 	* Play with your code in your snippets or console to verify it works correctly.
 * Once finished do the following:
@@ -20,7 +20,7 @@
 | :--- |
 | Try to complete the **dice**, **starship**, and **radio** problems.|
 
-**NOTE**: it's very hard to express an exhaustive description of each custom type outlined below. We encourage you to discuss the ambiguity of requirements for **methods** and **properties** as well as any potential properties you'll need to get a method to function properly. 
+**NOTE**: it's very hard to express an exhaustive description of each custom type outlined below. We encourage you to discuss the ambiguity of requirements for **methods** and **properties**. Also, for some exercises, you might need to add a property (or properties) to the prototype in order to make your method work. 
 
 ## Exercises
 
