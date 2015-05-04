@@ -2,7 +2,7 @@
 
 
 
-###  Directions
+### Directions
 
 * Fork this repo
 * Clone it from your github account onto your computer, and switch into the directory
