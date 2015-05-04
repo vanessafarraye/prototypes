@@ -18,7 +18,7 @@
   * Add a `listen` method that returns the following:
     * `"distorted music"` for "AM".
     * `"clear music"` for "FM".
-  * SUPER BONUS: Add a `toggleSignal` method that lets you set `signalType` to `AM` or `FM`. Make sure the `station` is valid when you toggle. Your radio should remember your `station` when you toggle.
+  * SUPER BONUS: Add a `toggleSignal` method that lets you set `signalType` to `AM` or `FM`. Make sure the `station` is valid when you toggle. Your radio should remember the `station` from the other signal type when you toggle.
 * Make a `Mailer` constructor that takes a `from` email address, and has `currentMessage` set to an empty object, as well as a `sentMessages` array.
   * Add a `setSendTo` method that sets `currentMessage.sendTo` to be a specified email.
   * Add a `setSubject` method that sets `currentMessage.subject` to be a specified subject.
