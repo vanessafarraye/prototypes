@@ -1,5 +1,21 @@
 # Intro Prototypes
 
+
+
+###  Directions
+
+* Fork this repo
+* Clone it and switch into the directory
+	* Make a JS file for each exercise you attempt.
+	* Play with your code in your snippets or console to verify it works correctly.
+* Once finished do the following:
+	* `git add . -A` from the prototypes folder.
+	* `git commit -m 'solutions'`
+	* `git push origin master`
+* Submit the link to your fork in the homework form.
+
+----
+
 | Goal |
 | :--- |
 | Try to complete the **starship**, **dice**, and **radio** problems. |
