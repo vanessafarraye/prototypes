@@ -4,6 +4,8 @@
 | :--- |
 | Try to complete the **starship**, **dice**, and **radio** problems. |
 
+**NOTE**: it's very hard to express an exhaustive description of each custom type outlined below. We encourage you to discuss the ambiguity of requirements for **methods** and **properties** as well as any potential properties you'll need to get a method to function properly. 
+
 ## Exercises
 
 * Make a `Dice` constructor that takes a `numberOfSides`. Add a method called `roll` that randomly returns a number from `1` up to the `numberOfSides`.
