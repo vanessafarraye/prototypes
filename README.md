@@ -1,4 +1,9 @@
 # Intro Prototypes
+
+| Goal |
+| :--- |
+| Try to complete the **starship**, **dice**, and **radio** problems. |
+
 ## Exercises
 
 * Make a `Dice` constructor that takes a `numberOfSides`. Add a method called `roll` that randomly returns a number from `1` up to the `numberOfSides`.
